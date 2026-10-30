@@ -1,0 +1,9 @@
+{
+    "surum":  "1.19.0",
+    "tarih":  "2026-10-30T12:25:02+03:00",
+    "not":  "ETM Muhasebe 1.19.0\r\n\r\n- YENİ · Terminaller: bilgisayar, telefon ve tablet birbirine anında haber verir — satış, stok girişi/çıkışı, yeni ürün, kritik stok, servis, tahsilat, gün sonu. Cihazlar arası mesaj ve sesli ALARM (siren + \"Gördüm\").\r\n- YENİ · Jarvis Komut: \"2 adet kılıf sat\", \"şarj aleti stoğuna 10 ekle\", \"kablo stoktan 3 düş\", \"kılıf kaç tane var\", \"bugünkü satış\". ELIF JARVIS ile sesli komut.\r\n- Güncelleme: dosya adları artık her sürümde aynı; sürüm bilgisi surum.json\u0027dan okunur (GitHub sorgu sınırına takılmaz). İndirme başlamazsa \"Bağlantıyı kopyala\".",
+    "apk":  "https://github.com/utkanetmteam/etm-guncelleme/releases/download/v1.19.0/EtmTech-Muhasebe.apk",
+    "exe":  "https://github.com/utkanetmteam/etm-guncelleme/releases/download/v1.19.0/ETM-Muhasebe-Kurulum.exe",
+    "apkSabit":  "https://github.com/utkanetmteam/etm-guncelleme/releases/latest/download/EtmTech-Muhasebe.apk",
+    "exeSabit":  "https://github.com/utkanetmteam/etm-guncelleme/releases/latest/download/ETM-Muhasebe-Kurulum.exe"
+}
