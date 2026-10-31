@@ -1,9 +1,9 @@
 {
-    "surum":  "1.21.0",
-    "tarih":  "2026-10-31T14:03:47+03:00",
-    "not":  "ETM Muhasebe 1.21.0\r\n\r\n- YENİ · ETM Muhasebe 2 görünümü: beyaz zemin, menüler üstte açılır. Bütün özellikler aynı. Menü › Sistem › 🎨 Görünüm ile Klasik (koyu) ve ETM Muhasebe 2 arasında geçilir; yeni kurulumlar ETM Muhasebe 2 ile başlar.\r\n\r\n- GÜVENLİK: Jarvis satış/stok komutları ayrı şifreyle imzalanır; lisans anahtarı ve Jarvis bilgisi yalnızca yöneticiye görünür; satıcı mesajları imzalı; dışarıdan gelen veride tehlikeli kimlikler temizlenir.\r\n\r\n- YENİ · Gün sonu raporu: kasa kapanınca ve istenen saatte bütün cihazlara; WhatsApp\u0027a gönder, yazdır.\r\n- YENİ · Sektör modu: market, kasap/manav, nalbur, butik, servis. Kg / litre / metre ile satış, etiketli terazi barkodu.\r\n- YENİ · IMEI: e-Devlet sorgu düğmesi ve dükkânın kendi kara listesi (girilince uyarı).\r\n- YENİ · Raf fiyat etiketi (birim fiyat + fiyat tarihi, A4 ve termal).\r\n- YENİ · Yardım \u0026 Destek: tanıtım, adım adım rehber, kısayollar, görüntülü destek, iletişim, hakkında.",
-    "apk":  "https://github.com/utkanetmteam/etm-guncelleme/releases/download/v1.21.0/EtmTech-Muhasebe.apk",
-    "exe":  "https://github.com/utkanetmteam/etm-guncelleme/releases/download/v1.21.0/ETM-Muhasebe-Kurulum.exe",
+    "surum":  "1.21.1",
+    "tarih":  "2026-10-31T14:25:32+03:00",
+    "not":  "ETM Muhasebe 1.21.1\r\n\r\n- YENİ · Uygulama KAPALIYKEN telefona alarm / mesaj / rapor: Terminaller › Ayarlar › “Uygulama kapalıyken” (ntfy uygulamasıyla, yönetici açar).\r\n\r\n- YENİ · ETM Muhasebe 2 görünümü: beyaz zemin, menüler üstte açılır. Bütün özellikler aynı. Menü › Sistem › 🎨 Görünüm ile Klasik (koyu) ve ETM Muhasebe 2 arasında geçilir; yeni kurulumlar ETM Muhasebe 2 ile başlar.\r\n\r\n- GÜVENLİK: Jarvis satış/stok komutları ayrı şifreyle imzalanır; lisans anahtarı ve Jarvis bilgisi yalnızca yöneticiye görünür; satıcı mesajları imzalı; dışarıdan gelen veride tehlikeli kimlikler temizlenir.\r\n\r\n- YENİ · Gün sonu raporu: kasa kapanınca ve istenen saatte bütün cihazlara; WhatsApp\u0027a gönder, yazdır.\r\n- YENİ · Sektör modu: market, kasap/manav, nalbur, butik, servis. Kg / litre / metre ile satış, etiketli terazi barkodu.\r\n- YENİ · IMEI: e-Devlet sorgu düğmesi ve dükkânın kendi kara listesi (girilince uyarı).\r\n- YENİ · Raf fiyat etiketi (birim fiyat + fiyat tarihi, A4 ve termal).\r\n- YENİ · Yardım \u0026 Destek: tanıtım, adım adım rehber, kısayollar, görüntülü destek, iletişim, hakkında.",
+    "apk":  "https://github.com/utkanetmteam/etm-guncelleme/releases/download/v1.21.1/EtmTech-Muhasebe.apk",
+    "exe":  "https://github.com/utkanetmteam/etm-guncelleme/releases/download/v1.21.1/ETM-Muhasebe-Kurulum.exe",
     "apkSabit":  "https://github.com/utkanetmteam/etm-guncelleme/releases/latest/download/EtmTech-Muhasebe.apk",
     "exeSabit":  "https://github.com/utkanetmteam/etm-guncelleme/releases/latest/download/ETM-Muhasebe-Kurulum.exe"
 }
